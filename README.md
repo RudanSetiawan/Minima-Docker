@@ -133,3 +133,13 @@ incentivecash uid:INCENTIVEID
 
 ![image](https://user-images.githubusercontent.com/91402307/202051417-d3bd8752-d84f-4770-803a-617fc7e39ae0.png)
 
+### Kembali ke User Root
+
+Lakukan 3 kali exit agar kembali ke root
+
+```
+eixt
+```
+
+![image](https://user-images.githubusercontent.com/91402307/202051885-7fdfdbed-ae2b-40a1-9d00-f15601d19d57.png)
+
