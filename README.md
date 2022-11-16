@@ -143,3 +143,10 @@ eixt
 
 ![image](https://user-images.githubusercontent.com/91402307/202051885-7fdfdbed-ae2b-40a1-9d00-f15601d19d57.png)
 
+### Hapus Node Minima
+
+```
+docker stop minima9001 && docker rm minima9001 && sudo rm -rf minimadocker9001
+```
+
+
