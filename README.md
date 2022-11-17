@@ -64,20 +64,12 @@ sudo chmod +x ./get-docker.sh && ./get-docker.sh
 
 ![image](https://user-images.githubusercontent.com/91402307/202047455-bc60138d-544c-4cc9-ade7-88dd7bf2d5e5.png)
 
-### Exit dari User Minima
-
-```
-exit
-```
-
-![image](https://user-images.githubusercontent.com/91402307/202049650-2ab59185-534f-427d-9073-18a6a5d0b250.png)
-
-
 ### Tambahkan User Minima ke Grup Docker
 
 ```
 sudo usermod -aG docker $USER && su minima
 ```
+Masukkan password
 
 ![image](https://user-images.githubusercontent.com/91402307/202049748-169b3300-334e-48e7-b6a5-5b0c7c1b417a.png)
 
