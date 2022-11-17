@@ -138,7 +138,7 @@ eixt
 ### Hapus Node Minima
 
 ```
-docker stop minima9001 && docker rm minima9001 && sudo rm -rf minimadocker9001
+docker stop minima9001 && docker rm minima9001 && sudo rm -rf minimadocker9001 && sudo userdel minima
 ```
 
 
