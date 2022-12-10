@@ -130,7 +130,7 @@ incentivecash uid:INCENTIVEID
 Lakukan 3 kali exit agar kembali ke root
 
 ```
-eixt
+exit
 ```
 
 ![image](https://user-images.githubusercontent.com/91402307/202051885-7fdfdbed-ae2b-40a1-9d00-f15601d19d57.png)
